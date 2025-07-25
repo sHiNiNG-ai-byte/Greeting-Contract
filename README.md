@@ -105,3 +105,4 @@ const personalGreeting = await greetingContract.getPersonalizedGreeting();
 
 **Built with ❤️ for the blockchain community**
 contract address=0x7f888c52C9eB62DDBB0f63456a4a3397C3733DeA
+<img width="1360" height="581" alt="Screenshot from 2025-07-25 14-31-53" src="https://github.com/user-attachments/assets/b6f69ae7-5b51-47c1-b1e0-21128f755e8e" />
